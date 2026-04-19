@@ -25,7 +25,7 @@ This project was developed as part of the **Learning Unit 1: Design GUI** Practi
 - `checkout.html`: Order processing with form input requirements.
 
 ## 🌐 Live Demo
-You can view the live project here: **[PASTE YOUR VERCEL LINK HERE]**
+You can view the live project here: **[https://niyonshuti-tuyizere-eric-personal-p-eta.vercel.app/login.html]**
 
 ---
 **Author:** NIYONSHUTI Tuyizere Eric  
