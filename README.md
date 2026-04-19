@@ -1,4 +1,6 @@
 # Frontend Development CAT - Community E-Commerce Solution
+SmartShop – Ngoma District E-Commerce Solution > Developed by NIYONSHUTI Tuyizere Eric > Live Demo: [**[https://niyonshuti-tuyizere-eric-personal-p-eta.vercel.app/login.html]**
+Key Tech: Bootstrap, JavaScript Auth, Facebook Like API, X Timeline API.
 
 ##  Project Overview
 This project is a web-based application designed to solve the challenge of digital access to essential goods in the **Kibungo Sector, Ngoma District**. It serves as a bridge between local vendors and residents, providing a streamlined shopping experience.
@@ -28,6 +30,10 @@ This project was developed as part of the **Learning Unit 1: Design GUI** Practi
 You can view the live project here: **[https://niyonshuti-tuyizere-eric-personal-p-eta.vercel.app/login.html]**
 
 ---
-**Author:** NIYONSHUTI Tuyizere Eric  
-**Institution:** Rwanda Polytechnic (RP)  
+**Author:** NIYONSHUTI Tuyizere Eric 
+**REG:25RP09562**
+**OPTION:IT**
+
+**LEVEL:6**
+**Institution:** Rwanda Polytechnic (RP) Ngoma college  
 **Location:** Ngoma District, Rwanda
